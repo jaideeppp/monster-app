@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.App {
+  text-align: center;
+}
+
+.title {
+  margin-top: 40px;
+  font-family: "Bigelow Rules", sans-serif;
+  color: #95dada;
+  font-size: 76px;
+}
+
+.input {
+  border: none;
+  outline: none;
+  padding: 10px;
+  width: 200px;
+  line-height: 30px;
+  margin: 30px auto;
+}
